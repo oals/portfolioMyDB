@@ -36,7 +36,7 @@ https://github.com/oals/MyDB-ApiServer
 <BR>
 
 
-<img src="https://github.com/oals/portfolioMyDB/assets/136543676/7b00271f-7856-4af8-866c-c8057d137448" height="350">
+<img src="https://github.com/oals/portfolioMyDB/assets/136543676/7b00271f-7856-4af8-866c-c8057d137448" height="650">
 
 
 <BR>
@@ -58,7 +58,7 @@ https://github.com/oals/MyDB-ApiServer
 
 <H3>데이터 베이스 연결 엑티비티</H3>
 <BR>
-<img src="https://github.com/oals/portfolioMyDB/assets/136543676/1735e9e3-a6b4-48d2-98e2-f74df1fcbda1" height="350">
+<img src="https://github.com/oals/portfolioMyDB/assets/136543676/1735e9e3-a6b4-48d2-98e2-f74df1fcbda1"  height="650">
 
 
 
@@ -92,7 +92,7 @@ https://github.com/oals/MyDB-ApiServer
 <BR>
 
 
-<img src="https://github.com/oals/portfolioMyDB/assets/136543676/9a6e3d88-938c-4821-9a08-114627a43c5a" height="350">
+<img src="https://github.com/oals/portfolioMyDB/assets/136543676/9a6e3d88-938c-4821-9a08-114627a43c5a"  height="650">
 
 
 
@@ -122,8 +122,8 @@ https://github.com/oals/MyDB-ApiServer
 <H3>데이터 베이스 데이터 검색 엑티비티</H3>
 <BR>
 
-<img src="https://github.com/oals/portfolioMyDB/assets/136543676/ece54e3c-a777-4a82-9612-b24baf00a51b" height="350">
-<img src="https://github.com/oals/portfolioMyDB/assets/136543676/03a02863-d8e6-420f-9b86-3f293963c754" height="350">
+<img src="https://github.com/oals/portfolioMyDB/assets/136543676/ece54e3c-a777-4a82-9612-b24baf00a51b"  height="650">
+<img src="https://github.com/oals/portfolioMyDB/assets/136543676/03a02863-d8e6-420f-9b86-3f293963c754"  height="650">
 
 
 
@@ -157,7 +157,7 @@ https://github.com/oals/MyDB-ApiServer
 <H3>데이터 베이스 삭제</H3>
 <BR>
 
-<img src="https://github.com/oals/portfolioMyDB/assets/136543676/65d7de1e-e421-409c-8e06-0d408ff646d6" height="350">
+<img src="https://github.com/oals/portfolioMyDB/assets/136543676/65d7de1e-e421-409c-8e06-0d408ff646d6" height="650">
 
 
 <br>
@@ -180,7 +180,7 @@ https://github.com/oals/MyDB-ApiServer
 <H3>로그인 및 회원가입</H3>
 <BR>
 
-<img src="https://github.com/oals/portfolioMyDB/assets/136543676/9bc1c3a4-31a8-41b8-b94f-48bbf1e1e191" height="350">
+<img src="https://github.com/oals/portfolioMyDB/assets/136543676/9bc1c3a4-31a8-41b8-b94f-48bbf1e1e191"  height="650">
 
 
 
