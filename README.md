@@ -39,6 +39,17 @@ https://github.com/oals/MyDB-ApiServer
 <img src="https://github.com/oals/portfolioMyDB/assets/136543676/7b00271f-7856-4af8-866c-c8057d137448" height="350">
 
 
+<BR>
+<BR>
+
+
+<UL>
+  <LI>해당 게정에 등록된 데이터베이스 목록을 리사이클 뷰로 구현했습니다.</LI>
+
+</UL>
+
+
+<BR>
 
 
 <HR>
@@ -63,6 +74,14 @@ https://github.com/oals/MyDB-ApiServer
 <br>
 <br>
 
+
+
+<UL>
+  <LI>입력 정보를 웹 서버로 전송해 DB와 연결을 시도하도록 구현했습니다. </LI>
+  <LI>현재 마리아DB와 오라클DB 연결을 지원합니다.</LI>
+  
+
+</UL>
 
 
 
@@ -90,6 +109,14 @@ https://github.com/oals/MyDB-ApiServer
 <br>
 <br>
 
+<UL>
+  <LI>등록된 데이터베이스 터치 시 웹 서버로 해당 데이터 베이스의 모든 DB (Maria DB)혹은테이블을(Oracle DB) 반환 하도록 구현했습니다.</LI>
+    <LI>DB 선택 -> 테이블 선택 -> 해당 테이블의 데이터 정보 조회 </LI>
+</UL>
+
+
+
+
 <HR>
 <H3>데이터 베이스 데이터 검색 엑티비티</H3>
 <BR>
@@ -112,6 +139,17 @@ https://github.com/oals/MyDB-ApiServer
 <br>
 <br>
 
+
+<UL>
+
+  <LI>지정된 검색 칼럼명과 검색어를 웹 서버로 전송해 동일한 데이터를 반환하도록 구현했습니다.</LI>
+  <LI>현재 선택한 테이블의 모든 칼럼명을 리스트로 만들어 동적 스피너를 구현 했습니다.</LI>
+
+</UL>
+
+
+
+
 <HR>
 
 
@@ -124,6 +162,17 @@ https://github.com/oals/MyDB-ApiServer
 <br>
 <br>
 <HR>
+
+<UL>
+
+  <LI>리사이클 뷰와 스와이프를 통해 삭제 버튼을 구현했습니다.</LI>
+    <LI>DB에서 해당 데이터베이스 연결 정보를 삭제합니다.</LI>
+
+
+</UL>
+
+
+
 
 
 
