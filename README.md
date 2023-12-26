@@ -29,7 +29,6 @@ AWS EC2 및 RDS 와 웹 서버를 통해 DB 등록, 데이터 조회가 가능�
 https://github.com/oals/MyDB-ApiServer
 
 <BR>
-<BR>
 
 <hr>
 
