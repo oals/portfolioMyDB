@@ -30,35 +30,28 @@ AWS EC2 및 RDS 와 웹 서버를 통해 DB 등록, 데이터 조회가 가능�
 
 <hr>
 
-<H3>메인 페이지</H3>
+<H3>메인 엑티비티</H3>
 <BR>
 
 
+<img src="https://github.com/oals/portfolioMyDB/assets/136543676/7b00271f-7856-4af8-866c-c8057d137448" height="350">
 
-<br>
-<br>
-<details>
- <summary> 메인 화면 엑티비티 플로우 차트
- 
- </summary> 
-
-</details>
-<br>
-<br>
 
 
 
 <HR>
 
 
-<H3>영화 상세 페이지</H3>
+<H3>데이터 베이스 연결 엑티비티</H3>
 <BR>
+<img src="https://github.com/oals/portfolioMyDB/assets/136543676/1735e9e3-a6b4-48d2-98e2-f74df1fcbda1" height="350">
+
 
 
 <br>
 <br>
 <details>
- <summary> 영화 상세 엑티비티 플로우 차트
+ <summary> 데이터 베이스 연결 플로우 차트
  
  </summary> 
  
@@ -72,14 +65,18 @@ AWS EC2 및 RDS 와 웹 서버를 통해 DB 등록, 데이터 조회가 가능�
 
 <HR>
 
-<H3>영화 예매 페이지</H3>
+<H3>데이터 베이스 조회 엑티비티</H3>
 <BR>
+
+
+<img src="https://github.com/oals/portfolioMyDB/assets/136543676/9a6e3d88-938c-4821-9a08-114627a43c5a" height="350">
+
 
 
 <br>
 <br>
 <details>
- <summary> 영화 예매 엑티비티 플로우 차트
+ <summary> 데이터 베이스 조회 엑티비티 플로우 차트
  
  </summary> 
  
@@ -89,14 +86,17 @@ AWS EC2 및 RDS 와 웹 서버를 통해 DB 등록, 데이터 조회가 가능�
 <br>
 
 <HR>
-<H3>영화 검색</H3>
+<H3>데이터 베이스 데이터 검색 엑티비티</H3>
 <BR>
+
+<img src="https://github.com/oals/portfolioMyDB/assets/136543676/ece54e3c-a777-4a82-9612-b24baf00a51b" height="350">
+<img src="https://github.com/oals/portfolioMyDB/assets/136543676/03a02863-d8e6-420f-9b86-3f293963c754" height="350">
 
 
 
 <br>
 <details>
- <summary> 영화 검색 엑티비티 플로우 차트
+ <summary> 데이터 베이스 데이터 검색 엑티비티 플로우 차트
  
  </summary> 
  
@@ -107,16 +107,16 @@ AWS EC2 및 RDS 와 웹 서버를 통해 DB 등록, 데이터 조회가 가능�
 <HR>
 
 
-<H3>예매 내역</H3>
+<H3>데이터 베이스 삭제</H3>
 <BR>
 
-
+<img src="https://github.com/oals/portfolioMyDB/assets/136543676/65d7de1e-e421-409c-8e06-0d408ff646d6" height="350">
 
 
 <br>
 <br>
 <details>
- <summary> 예매 내역 엑티비티 플로우 차트
+ <summary> 데이터 베이스 삭제 플로우 차트
  
  </summary> 
  
@@ -130,29 +130,12 @@ AWS EC2 및 RDS 와 웹 서버를 통해 DB 등록, 데이터 조회가 가능�
 
 
 
-<H3>로그인 로그아웃</H3>
+<H3>로그인 및 회원가입</H3>
 <BR>
 
-<img src="" height="350">
+<img src="https://github.com/oals/portfolioMyDB/assets/136543676/9bc1c3a4-31a8-41b8-b94f-48bbf1e1e191" height="350">
 
 
-
-<BR>
-<BR>
-<UL>
- <LI> </LI>
-</UL>
-<BR>
-<BR>
-
-
-<HR>
-
-<H3>내 정보</H3>
-<BR>
-
-
-<img src="" height="350">
 
 <BR>
 <BR>
