@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <item
+            android:id="@+id/MyDB"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:icon="@mipmap/db_icon_foreground"
+            android:title="MyDB" />
+        <item
+            android:id="@+id/plusDB"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:icon="@mipmap/db_connect_icon_foreground"
+            android:title="DB 연결" />
+        <item
+            android:id="@+id/myPage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:icon="@mipmap/user_icon_foreground"
+            android:title="마이페이지" />
+
+</menu>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="DB_array">
+        <item>데이터베이스 선택</item>
+        <item>MariaDB</item>
+        <item>OracleDB</item>
+    </string-array>
+
+
+    <string-array name="DB_search">
+        <item>234 선택</item>
+        <item>52345</item>
+        <item>123</item>
+    </string-array>
+
+</resources>
