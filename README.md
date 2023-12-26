@@ -81,6 +81,8 @@ AWS EC2 및 RDS 와 웹 서버를 통해 DB 등록, 데이터 조회가 가능�
  
  </summary> 
  
+![데이터 베이스 조회](https://github.com/oals/portfolioMyDB/assets/136543676/ea20b72b-28ca-4448-b614-ef798083e922)
+
 
 </details>
 <br>
@@ -100,7 +102,10 @@ AWS EC2 및 RDS 와 웹 서버를 통해 DB 등록, 데이터 조회가 가능�
  <summary> 데이터 베이스 데이터 검색 엑티비티 플로우 차트
  
  </summary> 
- 
+
+ ![데이터 베이스 데이터 검색](https://github.com/oals/portfolioMyDB/assets/136543676/d6494ff7-f87f-430e-84d4-47af8ae36e17)
+
+
 </details>
 <br>
 <br>
@@ -116,17 +121,6 @@ AWS EC2 및 RDS 와 웹 서버를 통해 DB 등록, 데이터 조회가 가능�
 
 <br>
 <br>
-<details>
- <summary> 데이터 베이스 삭제 플로우 차트
- 
- </summary> 
- 
-<img src=''>
-</details>
-<br>
-<br>
-
-
 <HR>
 
 
@@ -138,13 +132,6 @@ AWS EC2 및 RDS 와 웹 서버를 통해 DB 등록, 데이터 조회가 가능�
 
 
 
-<BR>
-<BR>
-<UL>
- <LI> </LI>
-</UL>
-<BR>
-<BR>
 
 
 <HR>
