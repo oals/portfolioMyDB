@@ -54,7 +54,8 @@ AWS EC2 및 RDS 와 웹 서버를 통해 DB 등록, 데이터 조회가 가능�
  <summary> 데이터 베이스 연결 플로우 차트
  
  </summary> 
- 
+
+ ![db 등록 플로우차트](https://github.com/oals/portfolioMyDB/assets/136543676/0df42529-776b-46f6-843c-0106e0991557)
 
 </details>
 <br>
